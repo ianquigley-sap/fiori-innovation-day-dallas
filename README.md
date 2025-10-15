@@ -9,7 +9,7 @@ For participants with their own laptop, please scan this QR code to get to the r
 
 Landscape:https://lcapteched.eu10.build.cloud.sap/lobby
 
-![image](Hands-on.png)
+![image](Hands-on-dallas.png)
 
 ## Overview
 
