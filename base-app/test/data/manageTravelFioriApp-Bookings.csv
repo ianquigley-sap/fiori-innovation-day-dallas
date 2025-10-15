@@ -1,8 +1,0 @@
-ID;employee;airlines;bookingDate;flightDate;priceUSD;travels_ID
-373dc998-8251-44cb-b321-3824505cb6bc;Alice Johnson;Delta Airlines;2023-10-01;2023-11-01;300.00;c5dad566-a931-4d97-a499-2a8eaad1b7b7
-65f7ed06-fc27-4e65-a023-cfbd95d16eee;Bob Smith;American Airlines;2023-11-01;2023-12-10;250.00;0c1b5b9d-f1fe-416f-b2d0-ce50614d388c
-afda6211-ab1d-46a8-a4c4-d5ee2913c310;Charlie Brown;United Airlines;2023-09-20;2023-10-15;200.00;27509a17-91ea-43a9-90f2-1d90957e7da0
-baa86bf4-540f-4a9e-a432-f608d5fb585e;Diana Prince;Southwest Airlines;2023-10-10;2023-11-20;350.00;1d334498-1e2b-4bcd-87f5-19453409ce26
-9876e9f2-5289-4309-b74f-239386480c78;Eve Adams;JetBlue;2023-08-15;2023-09-05;150.00;762feb21-78d4-4c91-8b08-bbd37cfc7efb
-40383929-2708-4d47-bfaf-86666b08085b;Alice Johnson;Delta Airlines;2023-10-02;2023-11-05;300.00;c5dad566-a931-4d97-a499-2a8eaad1b7b7
-c64eceee-85ec-41ca-8957-f02b2a44082f;Bob Smith;American Airlines;2023-11-02;2023-12-12;250.00;0c1b5b9d-f1fe-416f-b2d0-ce50614d388c
