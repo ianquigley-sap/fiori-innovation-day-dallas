@@ -172,9 +172,11 @@ Please click on the **SAP Fiori** button in the left hand navigation![](image2.p
 
 ![](image1.png)
 
-Now open the **Open Application Info** on your most recently created app. Depending if you accomplished all exercises this should be ai-created-cap 2.  ![](image4.png).
+Now open the **Open Application Info** on your most recently created app. Depending if you accomplished all exercises this should be ai-created-cap2 (but if you created some more applications, it could be a higher number). 
 
-![](image3.png)
+When you expand the most recent app in the list, click on the Application Info icon alongside the `managetravelfioriapp` ![](image4.png).
+
+![](image3new.png)
 
 Click on **Open Page Map**.
 
