@@ -9,8 +9,8 @@ For participants with their own laptop, please scan this QR code to get to the r
 
 Landscape:https://lcapteched.eu10.build.cloud.sap/lobby
 
-![image](Hands-on-dallas.png)
-
+<b>Quick Link to the Repository: https://url.sap/3VL6TW
+</b>
 ## Overview
 
 Welcome to the SAP Fiori tools generative AI hands-on. In this session we will give you a step-by-step guide to building productive SAP Fiori apps using generative AI and the Flexible Programming Model. You will learn how to create applications from business requirements, and also how you can use images or sketches of your application and see them converted into SAP Fiori apps.
