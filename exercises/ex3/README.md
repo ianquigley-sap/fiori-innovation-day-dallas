@@ -59,8 +59,6 @@ Take a few minutes to explore the available standard floorplans and building blo
 
 Please check if you can see the **Advanced features are enabled (Experimental)** sign up top. If this is the case, press the edit button on the list report.
 
-**Note:** If your generated application's page map does not look like this, consider re-generating the application.
-
 ![image](ex3img8.png)
 
 As the next step, we want to add an additional column that indicates whether it is a business flight, and another one showing the flight destination.\
