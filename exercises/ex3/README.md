@@ -57,7 +57,7 @@ Take a few minutes to explore the available standard floorplans and building blo
 
 ![image](fiori_dev_portal1.png)
 
-Please check if you can see the **Advanced features are enabled (Experimental)** sign up top. If this is the case, press the edit button on the list report.
+Please confirm that the **Advanced features are enabled (Experimental)** sign appears up top, then press the edit button on the list report.
 
 ![image](ex3img8.png)
 
