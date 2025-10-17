@@ -52,7 +52,7 @@ As a next step we want to enhance our AI generated app. To do this switch back f
 
 Now you can see the page map for our AI generated Travel app. The app consists of a list report and an object page.
 
-Before we start enhancing the app, please open the [SAP Fiori Development Portal](https://ui5.sap.com/1.141.0/test-resources/sap/fe/core/fpmExplorer/index.html#/) in a new browser tab. This portal serves as your comprehensive reference guide for building SAP Fiori applications.
+Before we start enhancing the app, please open the [SAP Fiori Development Portal](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/) in a new browser tab. This portal serves as your comprehensive reference guide for building SAP Fiori applications.
 Take a few minutes to explore the available standard floorplans and building blocks for SAP Fiori elements applications. Pay particular attention to the List Report and Object Page floorplans, as these are the foundation of our generated travel app. Familiarize yourself with their features and extension points, as we'll be using several of these capabilities in the following steps to enhance our application.
 
 ![image](fiori_dev_portal1.png)
@@ -129,7 +129,7 @@ You can now see your Ai Mock Data in the preview.
 
 As the next step we want to switch the layout of the app to the flexible column layout. <br>
 
-Go back to the [SAP Fiori Development Portal](https://ui5.sap.com/1.141.0/test-resources/sap/fe/core/fpmExplorer/index.html#/) and navigate to **Global Patterns > Flexible Column Layout** to get familiar with the flexible column layout pattern before implementing it in your application.
+Go back to the [SAP Fiori Development Portal](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/) and navigate to **Global Patterns > Flexible Column Layout** to get familiar with the flexible column layout pattern before implementing it in your application.
 
 ![image](fiori_dev_portal2.png)
 
@@ -158,7 +158,7 @@ The available [SAP Fiori elements floorplans](https://help.sap.com/docs/SAP_FIOR
 If these floorplans do not meet your needs, the [flexible programming model](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/overview/introduction) provided by SAP Fiori elements allows to assemble your custom design by combining the available building blocks with SAPUI5 controls,\
 and leverage controller extensions in order to fine-tune the behaviour of your app.
 
-Open the [SAP Fiori Development Portal](https://ui5.sap.com/1.141.0/test-resources/sap/fe/core/fpmExplorer/index.html#/) and explore the extension points available for floorplans, especially the ones for the **Object Page** floorplan.
+Open the [SAP Fiori Development Portal](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/) and explore the extension points available for floorplans, especially the ones for the **Object Page** floorplan.
 One extension point we want to leverage is the **custom section**. As you can see in the SAP Fiori Development Portal, you can add custom UI5 controls, for example the GeoMap control shown in the portal.
 
 ![image](fiori_dev_portal3.png)
@@ -243,7 +243,7 @@ Switch back from your preview tab to the page editor in your Business applicatio
 
 Now we want to add the filter bar building block to our custom section.
 
-Before doing so, please open the [SAP Fiori Development Portal](https://ui5.sap.com/1.141.0/test-resources/sap/fe/core/fpmExplorer/index.html#/) in a new browser tab again. Navigate to **Building Blocks > Filter Bar** to get familiar with the filter bar building block before implementing it in your application.
+Before doing so, please open the [SAP Fiori Development Portal](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/) in a new browser tab again. Navigate to **Building Blocks > Filter Bar** to get familiar with the filter bar building block before implementing it in your application.
 
 ![image](fiori_dev_portal4.png)
 
@@ -394,7 +394,7 @@ The filter is applied to the bookings table.
 
 ![](image58.png)
 
-SAP Fiori elements also provides various controller extensions to fine-tune the behaviour of your app. This can be in the area of edit flows/action handling, routing, navigation, etc.  Please open the [SAP Fiori Development Portal](https://ui5.sap.com/1.141.0/test-resources/sap/fe/core/fpmExplorer/index.html#/) in a new browser tab again. Navigate to  **Floorplans > Extensions** to get familiar with the available controller extensions before implementing one in your application.
+SAP Fiori elements also provides various controller extensions to fine-tune the behaviour of your app. This can be in the area of edit flows/action handling, routing, navigation, etc.  Please open the [SAP Fiori Development Portal](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/) in a new browser tab again. Navigate to  **Floorplans > Extensions** to get familiar with the available controller extensions before implementing one in your application.
 
 ![image](fiori_dev_portal5.png)
 
@@ -574,7 +574,7 @@ Again, since the price is still above $1000 USD, the controller extension should
 Your controller extension is now working correctly, intercepting edit and save operations for high-value travel records and providing the necessary business validation through custom dialogs.
 
 
-In this exercise you have learned how the [SAP Fiori Development Portal](https://ui5.sap.com/1.141.0/test-resources/sap/fe/core/fpmExplorer/index.html#/) can help you to understand the available floorplans and building blocks for SAP Fiori elements applications and how you can use them in your Fiori application.
+In this exercise you have learned how the [SAP Fiori Development Portal](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/) can help you to understand the available floorplans and building blocks for SAP Fiori elements applications and how you can use them in your Fiori application.
 
 
 You can now use the time to explore further topics, like the **Field > Input with Value Help**, that helps you to implement value helps. Or **Global Patterns > Side Effects**, that helps you to implement dynamic applications.
